@@ -1,0 +1,96 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    background-color: #F2F2F2;
+    font-size: 1em;
+}
+
+img{
+    margin-top: 20px;
+    width: 620px;
+}
+
+.links a:link, .links a:visited{
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 20px;
+}
+
+.links a:hover{
+    color: orange;
+    padding: 8px 20px;
+    background:white;
+}
+
+
+.links{
+    margin: 20px 0px 8px 0px;
+}
+.branco{
+    color: white;
+}
+
+.nav{
+    padding: 20px;
+    text-align: center;
+    background-color: orange;
+}
+
+.container{
+    width: 920px;
+    margin: 25px auto;
+    
+}
+
+.central{   
+    width: 660px;
+    float: left;
+}
+
+.postagem{
+    padding: 20px;
+    margin-bottom: 15px;
+    background-color: white;
+}
+
+.postagem h1{
+    color: orange;
+}
+
+ a:link, a:visited{
+    text-decoration: none;
+    color:orange;
+}   
+
+a:hover{
+    text-decoration: underline;
+}
+
+.esq{
+    
+    float: right;
+    width: 240px;
+}
+
+.post{
+    margin-bottom: 10px;
+    background: white;
+    padding: 10px;
+}
+
+.post h3{
+    background-color: gray;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+.direitos{
+    background:#ccc;
+    clear: both;
+    text-align: center;
+}

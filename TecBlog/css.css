@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: gray;
+    font-size: 25px;
+}
+
+a:link, a:visited{
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 20px;
+}
+
+a:hover{
+    color: orange;
+    padding: 8px 20px;
+    background:white;
+}
+
+
+.links{
+    margin: 20px 0px 8px 0px;
+}
+.branco{
+    color: white;
+}
+
+.nav{
+    padding: 20px;
+    text-align: center;
+    background-color: orange;
+}
+
+.container{
+    width: 920px;
+    margin: 25px auto;
+    
+}
+
+.central{
+    padding: 10px;
+    background-color: red;
+    width: 660px;
+    float: left;
+
+}
+
+.esq{
+    float: right;
+    background: blue;
+    width: 240px;
+}
+
+.direitos{
+    background: white;
+    clear: both;
+    text-align: center;
+}
